@@ -1,0 +1,8 @@
+{
+  "name": "inflection-js",
+  "version": "1.0.0",
+  "description": "Mirror of inflection-js from Google Code repository.",
+  "main": "inflection.js",
+  "author": "Ryan Schuft",
+  "license": "MIT"
+}
